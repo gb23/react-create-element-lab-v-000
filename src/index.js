@@ -21,7 +21,6 @@ ReactDOM.render(
   meInReact,
   document.getElementById('global')
 );
-
 export default meInReact
 
 /* <div class="me">
